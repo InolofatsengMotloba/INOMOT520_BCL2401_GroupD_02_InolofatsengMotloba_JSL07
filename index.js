@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function () {
       <h1>Certificate of Achievement</h1>
       <p>This is to certify that</p>
       <h3>${studentName}</h3>
-      <p>has successfully completed the</p>
+      <p>has almost completed the</p>
       <h3>${courseName}</h3>
       <p>with legendary perseverance and world-class bad-assery for never giving up🏆</p>
       <img src="logo.png" height="70px" width="300px" alt="CodeSpace logo">
